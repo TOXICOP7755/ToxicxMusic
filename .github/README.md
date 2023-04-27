@@ -1,10 +1,10 @@
-<h1>ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
+<h1>𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™</h1>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <img src="https://graph.org/file/1130f393e046f9f2280c6.jpg">
 </p>
 <p align="center">
-    <a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/TOXICOP7755/ToxicxMusic/stargazers"><img src="https://graph.org/file/1130f393e046f9f2280c6.jpg" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Noob-Mukesh/MukeshRobot"> <img src="https://img.shields.io/github/repo-size/Noob-Mukesh/MukeshRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
