@@ -7,10 +7,10 @@
     <a href="https://github.com/TOXICOP7755/ToxicxMusic/stargazers"><img src="https://graph.org/file/1130f393e046f9f2280c6.jpg" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/Noob-Mukesh/MukeshRobot"> <img src="https://img.shields.io/github/repo-size/Noob-Mukesh/MukeshRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Noob-Mukesh/MukeshRobot/commits/prince"> <img src="https://img.shields.io/github/last-commit/Noob-Mukesh/MukeshRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Noob-Mukesh/MukeshRobot/issues"> <img src="https://img.shields.io/github/issues//MukeshRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Noob-Mukesh/MukeshRobot/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/MukeshRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/TOXICOP7755/ToxicxMusic"> <img src="https://graph.org/file/76cc61ea4e8d64b88cad4.jpg" /></a>
+    <a href="https://github.com/TOXICOP7755/ToxicXMusic/commits/PRIYANSHU"> <img src="https://graph.org/file/8eeb77e1e402d906228d3.jpg" /></a>
+    <a href="https://github.com/TOXICOP7755/ToxicxMusic/issues"> <img src="https://graph.org/file/5bd6295a8d40df448dc7b.jpg" /></a>
+    <a href="https://github.com/TOXICOP7755/ToxicxMusic/network/members"> <img src="https://graph.org/file/5bd6295a8d40df448dc7b.jpg" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 <h1>ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ </h1>
